@@ -3,7 +3,7 @@ This is DevOps best practices repo
 
 To get started to do this:
 
-`source ~/.venv/bin/activate``
+`source ~/.venv/bin/activate`
 
 
 ## Create a scaffold
