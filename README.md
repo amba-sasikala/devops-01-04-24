@@ -7,10 +7,10 @@ To get started to do this:
 
 
 ## Create a scaffold
-* `requirement.txt` : packages
-* `makeFile` : cookbook runs commands
-* 'hello.py' : Code
-* 'text_hello.py' : Test code
+* `requirements.txt` : packages
+* `MakeFile` : cookbook runs commands
+* 'app.py' : Code
+* 'text_app.py' : Test code
 
 Also include build server YAML files :
 * GitHub Actions config files
