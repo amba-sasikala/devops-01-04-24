@@ -1,3 +1,5 @@
+[![Click CLI Test](https://github.com/amba-sasikala/devops-01-04-24/actions/workflows/main.yml/badge.svg)](https://github.com/amba-sasikala/devops-01-04-24/actions/workflows/main.yml)
+
 # devops-01-04-24
 This is DevOps best practices repo
 
